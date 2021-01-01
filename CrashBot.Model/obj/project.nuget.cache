@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kzNCjdbXHihGkxEyX93I/i/jh+5mHtMhRvzm2Ui0nzgDkyahMgDOe8Z+/yyE9KJ69MHqCySl6siQHiS2Lp336A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adna\\Desktop\\CrashBot\\CrashBot.Model\\CrashBot.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adna\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Adna\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
